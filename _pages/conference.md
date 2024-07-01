@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conference
-permalink: /conference/
+permalink: /conference.md
 ordinal: 12th
 tcbis_date: July 15th - 18th
 tcbis_venue: Maryland, USA
