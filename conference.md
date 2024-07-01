@@ -31,9 +31,9 @@
     </header>
     <main>
         <div class="box">
-    <p> INTERNATIONAL CONFERENCE ON BUSINESS INFORMATICS <br />
-     <br />
-    </p>
+    <p>12th INTERNATIONAL CONFERENCE ON BUSINESS INFORMATICS <br />
+    July 15th - 18th <br />
+    Maryland, USA</p>
 </div>
 
         
