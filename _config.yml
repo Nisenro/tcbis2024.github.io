@@ -1,6 +1,6 @@
 title: tcbis
 description: TCBIS website
-baseurl: "" # the subpath of your site, e.g. /blog or github repository name
+baseurl: "/tcbis2024.github.io" # the subpath of your site, e.g. /blog or github repository name
 url: "http://www.tcbis.org"
 
 
