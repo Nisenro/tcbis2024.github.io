@@ -12,6 +12,11 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        sparse-checkout: |
+          .github
+           assets
+
 
     - name: Set up Ruby
       uses: actions/setup-ruby@v1
