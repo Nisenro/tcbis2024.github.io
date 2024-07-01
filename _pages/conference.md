@@ -2,7 +2,7 @@
 layout: default
 title: Conference
 permalink: /conference/
-ordinal: 19th
+ordinal: 12th
 tcbis_date: July 15th - 18th
 tcbis_venue: Maryland, USA
 ---

@@ -3,10 +3,17 @@ description: TCBIS website
 baseurl: "" # the subpath of your site, e.g. /blog or github repository name
 url: "http://www.tcbis.org"
 
+
 collections:
   pages:
     output: true
     permalink: /:path/
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 
 # Build settings
 markdown: kramdown

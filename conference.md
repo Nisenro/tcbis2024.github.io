@@ -8,7 +8,7 @@ tcbis_venue: Maryland, USA
 ---
 
 <div class="box">
-    <p>{{ page.ordinal }} INTERNATIONAL CONFERENCE ON BUSINESS INFORMATICS <br>
-    {{ page.tcbis_date }} <br>
-    {{ page.tcbis_venue }}</p>
+    <p>{{ site.ordinal }} INTERNATIONAL CONFERENCE ON BUSINESS INFORMATICS <br>
+    {{ site.tcbis_date }} <br>
+    {{ site.tcbis_venue }}</p>
 </div>

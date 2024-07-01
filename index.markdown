@@ -25,7 +25,7 @@ title: home
 <div class="about-section">
     <h3>About Us</h3>
     <div class="about">
-        <img src="../images/businfo.png" alt="" srcset="">
+        <img src="./assets/images/businfo.png" alt="" srcset="">
         <p class="about-content">Business Informatics takes a systematic and analytic approach to aligning
             <span>business intelligence</span>, <span>information science</span>, and <span>computer engineering</span>
             into an <span>engineering science for businesses</span>. The core element of business informatics is a
