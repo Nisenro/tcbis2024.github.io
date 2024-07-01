@@ -14,9 +14,9 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set up Ruby
-      uses: actions/setup-ruby@v1
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2' # Specify the Ruby version needed for Jekyll
+        ruby-version: '3.2.4' # Ruby version I am currently using
 
     - name: Install dependencies
       run: |
