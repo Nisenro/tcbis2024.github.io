@@ -3,7 +3,7 @@ name: Deploy Jekyll Site
 on:
   push:
     branches:
-      - master  # Change this to your default branch if necessary
+      - master  # this is the default branch
 
 jobs:
   build:
@@ -15,13 +15,18 @@ jobs:
       with:
         sparse-checkout: |
           .github
-           assets
-
+          assets
+          _pages
+          _layouts
+          _includes
+          _config.yml
+          Gemfile
+          Gemfile.lock
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.4' # Ruby version I am currently using
+        ruby-version: '3.2.4'  # Ruby version currently being used, check ruby -v
 
     - name: Install dependencies
       run: |

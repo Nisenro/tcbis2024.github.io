@@ -1,19 +1,18 @@
 title: tcbis
 description: TCBIS website
-baseurl: "/tcbis2024.github.io" # the subpath of your site, e.g. /blog or github repository name
-url: "http://www.tcbis.org"
-
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+baseurl: "/tcbis2024.github.io" # the subpath of my site i.e the github repository name
+url: "https://nisenro.github.io"
 
 defaults:
   - scope:
       path: "assets/images"
     values:
       image: true
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 # Build settings
 markdown: kramdown
