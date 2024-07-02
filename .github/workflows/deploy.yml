@@ -1,43 +1,49 @@
-name: Deploy Jekyll Site
+name: Deploy Jekyll Site # The name of the GitHub Actions workflow
 
+# It triggers the workflow when you push to the stated default branch
 on:
   push:
     branches:
-      - master  # this is the default branch
+      - master  # the default branch in my github repository
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Use the latest version of Ubuntu for the job runner
 
     steps:
+    # Step 1: Checkout the code from the repository
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        sparse-checkout: |
-          .github
-          assets
+        sparse-checkout: |  # Only checkout these specific directories and files to save time and resources
+          .github  
+          assets  
           _pages
-          _layouts
-          _includes
-          _config.yml
+          _layouts 
+          _includes 
+          _config.yml  
           Gemfile
           Gemfile.lock
 
+    # Step 2: Set up Ruby environment
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.4'  # Ruby version currently being used, check ruby -v
+        ruby-version: '3.2.4'  # Ruby version currently being used, use "ruby -v" to check version
 
+    # Step 3: Install Ruby dependencies
     - name: Install dependencies
       run: |
-        gem install bundler
-        bundle install
+        gem install bundler  # Install Bundler, the dependency manager for Ruby
+        bundle install  # Install all dependencies specified in the Gemfile
 
+    # Step 4: Build the Jekyll site
     - name: Build Jekyll site
-      run: bundle exec jekyll build
+      run: bundle exec jekyll build  # Run this command to generate the static site
 
+    # Step 5: Deploy the built site to GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site
+        github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication, stored as a secret
+        publish_dir: ./_site  # Directory to publish to GitHub Pages, where Jekyll outputs the built site
