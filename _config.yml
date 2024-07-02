@@ -15,7 +15,7 @@ collections:
     permalink: /:path/
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-feed
