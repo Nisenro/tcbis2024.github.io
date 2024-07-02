@@ -46,4 +46,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication, stored as a secret
+        publish_branch: gh-pages  # Branch to push the built site
         publish_dir: ./_site  # Directory to publish to GitHub Pages, where Jekyll outputs the built site
