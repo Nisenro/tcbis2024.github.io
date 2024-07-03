@@ -19,7 +19,7 @@ title: home
 - [Contact] -->
 
 <div class="hero-content">
-    <h1>IEEE Technical Community On Business Informatics And Systemss. </h1>
+    <h1>IEEE Technical Community On Business Informatics And Systems. </h1>
 </div>
 
 <div class="about-section">
