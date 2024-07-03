@@ -15,15 +15,15 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
       with:
-        sparse-checkout: |  # Only checkout specific directories and files to save time and resources
-          .github  # Directory containing GitHub Actions workflows
-          assets  # Directory containing assets like CSS, JS, images
-          _pages  # Directory containing Jekyll pages
-          _layouts  # Directory containing Jekyll layouts
-          _includes  # Directory containing Jekyll includes
-          _config.yml  # Jekyll configuration file
-          Gemfile  # Ruby dependencies file
-          Gemfile.lock  # Lock file for Ruby dependencies
+        sparse-checkout: |  # Only checkout these specific directories and files to save time and resources
+          .github  
+          assets  
+          _pages
+          _layouts 
+          _includes 
+          _config.yml  
+          Gemfile
+          Gemfile.lock
 
     # Step 2: Set up Ruby environment
     - name: Set up Ruby
