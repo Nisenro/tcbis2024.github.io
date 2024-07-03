@@ -14,11 +14,11 @@
         <div class="navbar">
             <img class="main-logo" src="{{ '/assets/images/tcbislogo.png' | relative_url }}" alt="TCBIS Logo">
             <ul class="nav-content">
-                <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                <li><a href="{{ '/conference' | relative_url }}">Conferences</a></li>
-                <li><a href="{{ '/executive-members' | relative_url }}">Executive Members</a></li>
-                <li><a href="{{ '/join-us' | relative_url }}">Join Us</a></li>
-                <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+                <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
+                <li><a href="{{ '/conference' | relative_url }}" class="{% if page.url == '/conference/' %}active{% endif %}">Conferences</a></li>
+                <li><a href="{{ '/executive-members' | relative_url }}" class="{% if page.url == '/executive-members/' %}active{% endif %}">Executive Members</a></li>
+                <li><a href="{{ '/join-us' | relative_url }}" class="{% if page.url == '/join-us/' %}active{% endif %}">Join Us</a></li>
+                <li><a href="{{ '/contact' | relative_url }}" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a></li>
             </ul>
         </div>
     </header>
