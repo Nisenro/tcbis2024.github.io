@@ -4,7 +4,7 @@ title: Conferences
 permalink: /conference/
 ordinal: 12th
 tcbis_date: July 15th - 18th
-tcbis_venue: Maryland, USA
+tcbis_venue: Shanghai, China.
 link: "https://ieee-cisose-congress.org/"
 year: 2024
 ---
