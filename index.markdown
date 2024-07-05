@@ -36,3 +36,12 @@ title: home
         </p>
     </div>
 </div>
+
+<div class="role-section">
+    <h3>Our Roles</h3>
+    <div class="roles">
+        <li>Organize professional gatherings to foster collaboration and share knowledge among professionals in the field of business informatics.</li>
+        <li>Establish standards and guidelines for educational programs to ensure that they meet the needs of the business informatics community and maintain high-quality education in this field.</li>
+        <li>Foster collaborations and partnerships across different sectors, including academia, industry, and government agencies, to advance the field of business informatics.</li>
+    </div>
+</div>
