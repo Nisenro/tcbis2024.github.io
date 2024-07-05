@@ -139,7 +139,6 @@ body {
 }
 
 /* Animation styling for each role */
-
 @keyframes slideInFromLeft {
     0% {
       transform: translateX(-100%);
@@ -173,21 +172,22 @@ body {
     }
   }
   
-  li {
+  .roles-anime {
     opacity: 0; /* Hide the list items initially */
   }
   
-  li:nth-child(1) {
+  .roles-anime.slide-in-from-left {
     animation: slideInFromLeft 2s forwards;
   }
   
-  li:nth-child(2) {
+  .roles-anime.slide-in-from-right {
     animation: slideInFromRight 2s forwards;
   }
   
-  li:nth-child(3) {
+  .roles-anime.slide-in-from-bottom {
     animation: slideInFromBottom 2s forwards;
   }
+  
   
 /* Styling for Conference Page */
 .box {
