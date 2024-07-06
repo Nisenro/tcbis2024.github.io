@@ -77,7 +77,8 @@ body {
 }
 
 .about-section h3, 
-.role-section h3 {
+.role-section h3,
+.join-section {
     font-size: 40px;
     font-weight: 600;
     text-align: center;
@@ -197,3 +198,34 @@ body {
     background-color: #f9f9f9;
     text-align: center;
 }
+
+/* Styling for Join-Us Page */
+
+.join-form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.join-form label {
+    display: block;
+    margin-top: 10px;
+}
+
+.join-form input[type="text"],
+.join-form input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+.join-form input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
