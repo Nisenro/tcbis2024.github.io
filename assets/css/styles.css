@@ -6,10 +6,18 @@
 }
 
 body {
+    padding-top: 130px;
     height:  100vh;
  }
 
-.topbar {
+ .top-bar {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    top: 0;
+ }
+
+.links-bar {
     background-color: rgb(43, 42, 42);
     height: 30px;
     padding: 5px;
@@ -17,7 +25,7 @@ body {
     justify-content: space-evenly;
 }
 
-.topbar a {
+.links-bar a {
     text-decoration: none;
     color: white;
 }
@@ -27,9 +35,13 @@ body {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    /* background-color: red; */
-    padding: 0 20px;
-    /* position: relative; */
+    backdrop-filter: blur(30px);
+    box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
+    border: 1.5px solid rgba(255, 255, 255, 0.18);
+    background-color: #fff;
+    top: 30px;
+    z-index: 1000;
+    margin-bottom: 100px;
 }
 
 .navbar img {
