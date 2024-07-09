@@ -6,15 +6,12 @@
 }
 
 body {
-    padding-top: 130px;
+    /* padding-top: 130px; */
     height:  100vh;
  }
 
  .top-bar {
-    position: fixed;
-    z-index: 10;
     width: 100%;
-    top: 0;
  }
 
 .links-bar {
@@ -39,8 +36,6 @@ body {
     box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
     border: 1.5px solid rgba(255, 255, 255, 0.18);
     background-color: #fff;
-    top: 30px;
-    margin-bottom: 100px;
 }
 
 .navbar img {
@@ -66,6 +61,13 @@ body {
 .nav-content a.active {
     color: #3C7A32;
     font-weight: bolder;
+}
+
+.fixed-navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
 }
 
 .hero-content {
@@ -128,18 +130,24 @@ body {
 }
 
 .role-section {
-     background-color: #d9d9d9;
+    background-color: #d9d9d9;
 }
 
-.roles {
+.animated-list {
     padding: 0 45px 45px 45px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.roles li {
+.animated-list li {
     background-color: #fff;
     color: #142D84;
     border: 1px solid #ccc;
     padding: 20px;
+    width: 70%;
     margin: 10px 0;
     font-size: 20px;
     font-weight: 500;
@@ -147,7 +155,6 @@ body {
     list-style: none;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
-
 }
 
 /* Animation styling for each role */

@@ -1,3 +1,5 @@
+// Responsible for animation on landing page
+
 document.addEventListener('DOMContentLoaded', function() {
     const options = {
       root: null, // Use the viewport as the container
@@ -35,4 +37,21 @@ document.addEventListener('DOMContentLoaded', function() {
       observer.observe(item);
     });
   });
-  
+
+// Onscroll function on navbar
+document.addEventListener('DOMContentLoaded', function () {
+    window.onscroll = function () {
+        myFunction();
+    };
+
+    function myFunction() {
+        var navbar = document.querySelector('.navbar');
+        var linksBarHeight = document.querySelector('.links-bar').offsetHeight;
+
+        if (window.scrollY > linksBarHeight) {
+            navbar.classList.add('fixed-navbar');
+        } else {
+            navbar.classList.remove('fixed-navbar');
+        }
+    }
+});
