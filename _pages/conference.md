@@ -2,7 +2,7 @@
 layout: default
 title: Conferences
 permalink: /conference/
-ordinal: 12th
+ordinal: 19th
 tcbis_date: July 15th - 18th
 tcbis_venue: Shanghai, China.
 link: "https://ieee-cisose-congress.org/"
