@@ -15,15 +15,8 @@ body {
 
  /* @media only screen and (max-width: 767px) {
     /* Styles for mobile view */
-    body {
-        font-size: 14px;
-        padding: 10px;
-    }
-
-    #content {
-        /* Styles for the content in mobile view */
-    }
-} */
+    
+ */
 
 
  .top-bar {
@@ -108,7 +101,9 @@ body {
 .about-section h3, 
 .role-section h3,
 .join-section h1,
-.contact-section h1 {
+.contact-section h1,
+.executive-committee h1,
+.conferences h1 {
     font-size: 40px;
     font-weight: 600;
     text-align: center;
@@ -227,20 +222,21 @@ body {
   /* Styling for Executive Committe Page */
 
 
-.executive-committee {
+.executive-committee,
+.conference {
     text-align: center;
-    padding: 20px;
+    padding: 12px;
 }
 
 .committee-member {
     display: inline-block;
     border: 2px solid #3C7A32;
     height: 10em;
-    width: 70px;
+    width: 10em;
     margin: 20px;
     text-align: center;
     position: relative;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
 }
 
 /* .committee-member-image {
@@ -251,7 +247,7 @@ body {
 } */
 
 .committee-member-name {
-    font-size: 1.5em;
+    font-size: 1em;
     margin-top: 10px;
     
 }
@@ -259,6 +255,7 @@ body {
 .roles-org {
     bottom: 0px;
     background-color: #A1F393;
+    padding: 10px;
     position: absolute;
     width: 100%;
 }
