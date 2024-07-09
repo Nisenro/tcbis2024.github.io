@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Executive Members
+title: Executive Committee
 permalink: /executive-members/
-
 ---
 
-# Executive Members images(optional),names and roles will be here.
+<div class="executive-committee">
+    <h1>Executive Committee Members</h1>
+
+    {% for member in site.data.committee_members %}
+        {% include committee_member.html name=member.name role=member.role org=member.org %}
+    {% endfor %}
+</div>

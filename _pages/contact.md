@@ -20,8 +20,11 @@ permalink: /contact/
         <label for="email">Email Address:</label><br>
         <input type="email" id="email" name="_replyto"><br>
 
-        <input type="hidden" name="_subject" value="New Member">
-        <input type="hidden" name="_next" value="https://yourwebsite.com/thank-you">
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="5" cols="50"></textarea><br>
+
+        <input type="hidden" name="_subject" value="New Message">
+
         <input type="submit" value="Submit">
     </form>
 
