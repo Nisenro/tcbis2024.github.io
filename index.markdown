@@ -13,11 +13,12 @@ title: home
         <img src="./assets/images/businfo.png" alt="" srcset="">
         <p class="about-content">Business Informatics takes a systematic and analytic approach to aligning
             <span>business intelligence</span>, <span>information science</span>, and <span>computer engineering</span>
-            into an <span>engineering science for businesses</span>. The core element of business informatics is a
+            into an <span>engineering science for businesses</span>. 
+            <!-- The core element of business informatics is a
             methodological approach for describing, explaining, predicting, and designing information and communication
             models, architectures, and systems for the business environment. Business informatics is a discipline
             combining several fields of study, including computer science, information technology, operations research,
-            and management systems, to develop a new scientific foundation for business engineering.
+            and management systems, to develop a new scientific foundation for business engineering. -->
         </p>
     </div>
 </div>
