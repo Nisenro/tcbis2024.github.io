@@ -1,5 +1,5 @@
 * {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -41,7 +41,7 @@ body {
     backdrop-filter: blur(30px);
     box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
     border: 1.5px solid rgba(255, 255, 255, 0.18);
-    background-color: #fff;
+    background: linear-gradient(123deg, #d0e2f0, #2ecae5, #10d9f4);;
 }
 
 .navbar img {
