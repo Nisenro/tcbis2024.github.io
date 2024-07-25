@@ -55,3 +55,24 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 });
+
+// function for changing images on hero
+
+let heroBackgrounds = document.querySelectorAll(".background");
+
+let currentIndex = 0;
+
+function changeBackground() {
+  heroBackgrounds[currentIndex].classList.remove("showing");
+
+  currentIndex++; //go to the next image 
+
+  if (currentIndex >= heroBackgrounds.length) {
+    currentIndex = 0;
+  }
+
+  heroBackgrounds[currentIndex].classList.add("showing");
+
+}
+
+setInterval(changeBackground, 3000);
