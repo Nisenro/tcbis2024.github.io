@@ -1,1588 +1,218 @@
 [
     {
-        "type": "title",
-        "content": "IEEE - The world's largest technical professional organization dedicated to advancing technology for the benefit of humanity."
+        "title": "2024 IEEE BioSensors Conference (BioSensors)",
+        "date": "28 Jul 2024",
+        "location": "Cambridge,",
+        "link": "#"
     },
     {
-        "type": "h1",
-        "content": "Advancing Technology for Humanity"
+        "title": "2024 IEEE International Conference on Manipulation, Manufacturing and Measurement on the Nanoscale (3M-NANO)",
+        "date": "29 Jul 2024",
+        "location": "Zhongshan,",
+        "link": "#"
     },
     {
-        "type": "h1",
-        "content": "Advancing Technology for Humanity"
+        "title": "The 33rd International Conference on Computer Communications and Networks (ICCCN 2024)",
+        "date": "29 Jul 2024",
+        "location": "Hawaii,",
+        "link": "#"
     },
     {
-        "type": "h3",
-        "content": "Welcome, members!"
+        "title": "6th IEEE International Conference on Omni-Layer Intelligent systems",
+        "date": "29 Jul 2024",
+        "location": "London,",
+        "link": "#"
     },
     {
-        "type": "h3",
-        "content": "Get connected"
+        "title": "International Conference on Neuromorphic Systems (ICONS)",
+        "date": "30 Jul 2024",
+        "location": "Fairfax,",
+        "link": "#"
     },
     {
-        "type": "h3",
-        "content": "Get involved"
+        "title": "2024 IEEE 10th International Conference on Smart Instrumentation, Measurement and Applications (ICSIMA)",
+        "date": "30 Jul 2024",
+        "location": "Bandung,",
+        "link": "#"
     },
     {
-        "type": "h2",
-        "content": "The latest from IEEE"
+        "title": "2024 IEEE East Asian School of Information Theory (EASIT)",
+        "date": "30 Jul 2024",
+        "location": "Kanagawa,",
+        "link": "#"
     },
     {
-        "type": "h2",
-        "content": "IEEE at a Glance"
+        "title": "2024 IEEE 4th International Conference on Sustainable Energy and Future Electric Transportation (SEFET)",
+        "date": "31 Jul 2024",
+        "location": "Hyderabad,",
+        "link": "#"
     },
     {
-        "type": "h2",
-        "content": "How can IEEE help you?"
+        "title": "The 9th International STEM Education Conference 2024",
+        "date": "31 Jul 2024",
+        "location": "Phetchaburi,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": " Skip to content ",
-        "url": "#main-content"
+        "title": "2024 IEEE 7th International Conference on Electronic Information and Communication Technology (ICEICT)",
+        "date": "31 Jul 2024",
+        "location": "Xi’An,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "\n\n",
-        "url": "#mn-header"
+        "title": "15th International Conference on Reliability, Maintenance and Safety (ICRMS)",
+        "date": "31 Jul 2024",
+        "location": "Guilin,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "IEEE.org",
-        "url": "https://www.ieee.org"
+        "title": "Portland International Conference on Management of Engineering and Technology (PICMET)",
+        "date": "04 Aug 2024",
+        "location": "Portland,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "IEEE Xplore Digital Library",
-        "url": "https://ieeexplore.ieee.org/Xplore/home.jsp"
+        "title": "2024 IEEE International Conference on Mechatronics and Automation (ICMA)",
+        "date": "04 Aug 2024",
+        "location": "Tianjin,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "IEEE Standards",
-        "url": "http://standards.ieee.org"
+        "title": "2024 IEEE 14th International Conference on the Properties and Applications of Dielectric Materials (ICPADM)",
+        "date": "04 Aug 2024",
+        "location": "Phuket,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "IEEE Spectrum",
-        "url": "http://spectrum.ieee.org"
+        "title": "IEEE 35th Magnetic Recording Conference (TMRC)",
+        "date": "05 Aug 2024",
+        "location": "Berkeley,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "More Sites",
-        "url": "https://www.ieee.org/sitemap.html"
+        "title": "2023 IEEE 3rd German Education Conference (GECon)",
+        "date": "05 Aug 2024",
+        "location": "Munich,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "Donate",
-        "url": "https://www.ieee.org/give"
+        "title": "2024 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)",
+        "date": "05 Aug 2024",
+        "location": "Newport Beach,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "Donate",
-        "url": "https://www.ieee.org/give"
+        "title": "IEEE 6th Conference on Games",
+        "date": "05 Aug 2024",
+        "location": "Milan,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "Cart (0)",
-        "url": "https://www.ieee.org/cart/public/myCart/page.html"
+        "title": "2023 IEEE 3rd German Education Conference (GECon)",
+        "date": "05 Aug 2024",
+        "location": "Munich,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "Purchases",
-        "url": "https://www.ieee.org/profile/otherpurchases/showOtherPurchases.html"
+        "title": "2024 3rd International Conference on Power Systems and Electrical Technology（PSET 2024）",
+        "date": "05 Aug 2024",
+        "location": "Tokyo,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "",
-        "url": "https://www.ieee.org/profile"
+        "title": "4th International Conference on Emerging Smart Technologies and Applications (eSmarTA)",
+        "date": "06 Aug 2024",
+        "location": "Sana'A,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "Sign Out",
-        "url": "/system/sling/logout.html?resource=/bin/svc/ieeecommon/ieee-org/secured/redirect.html"
+        "title": "International Electronics Symposium (IES)",
+        "date": "06 Aug 2024",
+        "location": "Denpasar,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "Create Account",
-        "url": "https://www.ieee.org/profile/public/createwebaccount/showCreateAccount.html?url="
+        "title": "IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)",
+        "date": "06 Aug 2024",
+        "location": "Ontario,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "Sign In",
-        "url": "/bin/svc/ieeecommon/ieee-org/secured/redirect.html?finalTarget="
+        "title": "2024 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)",
+        "date": "06 Aug 2024",
+        "location": "Kingston,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": " ",
-        "url": "https://www.ieee.org/profile"
+        "title": "2024 IEEE International Conference on Technology, Informatics, Management, Engineering and Environment (TIME-E)",
+        "date": "07 Aug 2024",
+        "location": "Bali,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": " ",
-        "url": "/bin/svc/ieeecommon/ieee-org/secured/redirect.html?finalTarget="
+        "title": "2024 7th International Conference on Intelligent Robotics and Control Engineering (IRCE)",
+        "date": "07 Aug 2024",
+        "location": "Xi'An,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "0\n\n",
-        "url": "https://www.ieee.org/cart/public/myCart/page.html"
+        "title": "2024 International Conference on Automation in Manufacturing, Transportation and Logistics (ICaMaL)",
+        "date": "07 Aug 2024",
+        "location": "Hong Kong,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "\n\n",
-        "url": "/"
+        "title": "2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops)",
+        "date": "07 Aug 2024",
+        "location": "Hangzhou,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "\n\n",
-        "url": "/"
+        "title": "Third International Workshop on Big Data in Healthcare",
+        "date": "07 Aug 2024",
+        "location": "San Jose,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "The professional home for the engineering and technology community worldwide",
-        "url": "/about/index.html?WT.mc_id=head_bm"
+        "title": "2024 IEEE/CIC International Conference on Communications in China (ICCC)",
+        "date": "07 Aug 2024",
+        "location": "Hangzhou,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "",
-        "url": "https://ieee-collabratec.ieee.org/"
+        "title": "The 1st IEEE International Conference on Future Technologies for Smart Society",
+        "date": "07 Aug 2024",
+        "location": "Kuala Lumpur,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://www.facebook.com/IEEE.org/"
+        "title": "International Conference on Multimedia Information Processing and Retrieval",
+        "date": "07 Aug 2024",
+        "location": "California,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://twitter.com/IEEEorg"
+        "title": "Submission Deadline Extension – IEEE 25th International Conference on Information Reuse and Integration for Data Science",
+        "date": "07 Aug 2024",
+        "location": "California,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://www.linkedin.com/company/ieee"
+        "title": "2024 IEEE 12th International Conference on Serious Games and Applications for Health (SeGAH)",
+        "date": "07 Aug 2024",
+        "location": "Funchal,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://www.instagram.com/ieeeorg/"
+        "title": "25th International Conference on Electronic Packaging Technology (ICEPT)",
+        "date": "07 Aug 2024",
+        "location": "Tianjin,",
+        "link": "#"
     },
     {
-        "type": "link",
-        "text": "IEEE Sites",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\tAbout\n             ",
-        "url": "/about.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tMission and vision\n\t\t\t\t",
-        "url": "/about/vision-mission.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE at a glance\n\t\t\t\t",
-        "url": "/about/at-a-glance.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Strategic Plan\n\t\t\t\t",
-        "url": "/about/ieee-strategic-plan.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tOrganization of IEEE\n\t\t\t\t",
-        "url": "/about/organization/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tNewsroom\n\t\t\t\t",
-        "url": "/about/news/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tDiversity, Equity, & Inclusion\n\t\t\t\t",
-        "url": "/about/diversity-index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tOrganizational Ethics\n\t\t\t\t",
-        "url": "/about/compliance.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tAnnual Report\n\t\t\t\t",
-        "url": "/about/annual-report.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tHistory of IEEE\n\t\t\t\t",
-        "url": "/about/ieee-history.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tVolunteer resources\n\t\t\t\t",
-        "url": "/about/volunteers/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Corporate Awards Program\n\t\t\t\t",
-        "url": "https://corporate-awards.ieee.org/?utm_source=mm_link&utm_campaign=awards&utm_medium=about&utm_term=awards"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tFinancials and Statistics\n\t\t\t\t",
-        "url": "/about/financials.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Future Directions\n\t\t\t\t",
-        "url": "/about/technologies.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE for Industry (Corporations, Government, Individuals)\n\t\t\t\t",
-        "url": "/about/industry/introduction.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Climate Change\n\t\t\t\t",
-        "url": "https://climate-change.ieee.org?utm_source=mm_link&utm_campaign=climate-change&utm_medium=about&utm_term=ieee-climate-change"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tHumanitarian and Philanthropic Opportunities\n\t\t\t\t",
-        "url": "/about/humanitarian-tech.html"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Get the latest news",
-        "url": "/about/news/index.html?utm_source=mm_wdw&utm_campaign=new&utm_medium=ab&utm_term=news"
-    },
-    {
-        "type": "link",
-        "text": "Access volunteer resources (Code of Ethics, financial forms, tools and templates, and more) ",
-        "url": "/about/volunteers/index.html?utm_source=%20mm_wdw&utm_campaign=vr&utm_medium=ab&utm_term=volunteer%20resources"
-    },
-    {
-        "type": "link",
-        "text": "Find IEEE locations ",
-        "url": "/about/contact.html?utm_source=%20mm_wdw&utm_campaign=contact&utm_medium=ab&utm_term=contact%20locations"
-    },
-    {
-        "type": "link",
-        "text": "Get help from the IEEE Support Center ",
-        "url": "https://supportcenter.ieee.org/?utm_source=%20mm_wdw&utm_campaign=support&utm_medium=ab&utm_term=support%20center"
-    },
-    {
-        "type": "link",
-        "text": "Recover your IEEE Account username and password",
-        "url": "https://supportcenter.ieee.org/app/answers/detail/a_id/3087?utm_source=wdw&utm_medium=lp-about&utm_campaign=recover-account"
-    },
-    {
-        "type": "link",
-        "text": "Learn about the IEEE Awards program and submit nomination",
-        "url": "/about/awards/index.html?utm_source=%20mm_wdw&utm_campaign=iap&utm_medium=ab&utm_term=awards%20program"
-    },
-    {
-        "type": "link",
-        "text": "View IEEE's organizational structure and leadership",
-        "url": "/about/organization/index.html?utm_source=%20mm_wdw&utm_campaign=ooi&utm_medium=ab&utm_term=organization%2C%20leadership"
-    },
-    {
-        "type": "link",
-        "text": "Apply for jobs at IEEE ",
-        "url": "https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mm_wdw&utm_campaign=taleo-jobs&utm_medium=ab&utm_term=jobs%20at%20ieee"
-    },
-    {
-        "type": "link",
-        "text": "See the history of IEEE",
-        "url": "/about/ieee-history.html?utm_source=mm_wdw&utm_campaign=hoi&utm_medium=ab&utm_term=ieee%20history"
-    },
-    {
-        "type": "link",
-        "text": "Learn more about Diversity, Equity & Inclusion at IEEE",
-        "url": "/about/diversity-index.html?utm_source=mm_wdw&utm_campaign=dei&utm_medium=ab&utm_term=diversity"
-    },
-    {
-        "type": "link",
-        "text": "See results",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\tMembership\n             ",
-        "url": "/membership.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tJoin IEEE\n\t\t\t\t",
-        "url": "/membership/join/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tJoin an IEEE Society\n\t\t\t\t",
-        "url": "https://www.ieee.org/membership-catalog/index.html?srchProdType=Societies&searchType=prodType"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tRenew your membership\n\t\t\t\t",
-        "url": "/membership/renew.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tMember benefits\n\t\t\t\t",
-        "url": "/membership/benefits/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Contact Center\n\t\t\t\t",
-        "url": "/membership/contact-center.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tConnect locally\n\t\t\t\t",
-        "url": "/membership/geographic-activities.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tMemberships and Subscriptions Catalog\n\t\t\t\t",
-        "url": "https://www.ieee.org/membership-catalog/index.html?N=0?utm_source=mm_link&utm_campaign=shop&utm_medium=ms&utm_term=memberships%20and%20subs%20shop"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tMember insurance and discounts\n\t\t\t\t",
-        "url": "/membership/discounts/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tMember Grade Elevation\n\t\t\t\t",
-        "url": "/membership/grade-elevation.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tGet your company engaged\n\t\t\t\t",
-        "url": "/membership/ieee-corporate-engagement.html"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Access your Account",
-        "url": "http://www.ieee.org/profile?utm_source=mm_wdw&utm_campaign=access-your-account&utm_medium=ms&utm_term=access"
-    },
-    {
-        "type": "link",
-        "text": "Learn about membership dues",
-        "url": "/membership/join/dues.html?utm_source=mm_wdw&utm_campaign=join_dues&utm_medium=ms&utm_term=membership%20dues"
-    },
-    {
-        "type": "link",
-        "text": "Learn about Women in Engineering (WIE)",
-        "url": "/membership/women/index.html?utm_source=mm_wdw&utm_campaign=wie&utm_medium=ms&utm_term=wie"
-    },
-    {
-        "type": "link",
-        "text": "Access IEEE member email",
-        "url": "/membership/products/google-apps.html?utm_source=mm_wdw&utm_campaign=eleccomm&utm_medium=ms&utm_term=member-email"
-    },
-    {
-        "type": "link",
-        "text": "Find information on IEEE Fellows",
-        "url": "/membership/fellows/index.html?utm_source=mm_wdw&utm_campaign=fellows&utm_medium=ms&utm_term=fellows"
-    },
-    {
-        "type": "link",
-        "text": "Access the IEEE member directory",
-        "url": "https://ieee-collabratec.ieee.org/?utm_source=mm_wdw&utm_campaign=my_ieee-directory&utm_medium=ms&utm_term=my_ieee-member%20directory"
-    },
-    {
-        "type": "link",
-        "text": "Learn about the Member-Get-a-Member program",
-        "url": "http://www.ieee.org/membership_services/membership/join/mgm.html?utm_source=mm_wdw&utm_campaign=mgm&utm_medium=ms&utm_term=mgm%2C%20member-get-a-member"
-    },
-    {
-        "type": "link",
-        "text": "Learn about IEEE Potentials magazine",
-        "url": "/membership/students/potentials.html?utm_source=mm_wdw&utm_campaign=potentials&utm_medium=ms&utm_term=potentials"
-    },
-    {
-        "type": "link",
-        "text": "Learn about Student membership",
-        "url": "/membership/students/index.html?utm_source=mm_wdw&utm_campaign=student&utm_medium=ms&utm_term=student%20membership"
-    },
-    {
-        "type": "link",
-        "text": "See results",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Join IEEE ",
-        "url": "/membership/join/index.html"
-    },
-    {
-        "type": "link",
-        "text": "Join an IEEE Society",
-        "url": "https://www.ieee.org/membership-catalog/index.html?srchProdType=Societies&searchType=prodType"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\tCommunities\n             ",
-        "url": "/communities.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tAffinity groups\n\t\t\t\t",
-        "url": "/communities/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Societies\n\t\t\t\t",
-        "url": "/communities/societies/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tTechnical Councils\n\t\t\t\t",
-        "url": "/communities/societies/about-technical-councils.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tTechnical Communities\n\t\t\t\t",
-        "url": "/communities/societies/about-technical-communities.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tGeographic Activities\n\t\t\t\t",
-        "url": "/communities/geographic-activities.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tWorking groups\n\t\t\t\t",
-        "url": "http://grouper.ieee.org/groups/index.html?utm_source=mm_link&utm_campaign=swg&utm_medium=com&utm_term=working%20groups"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Regions\n\t\t\t\t",
-        "url": "/communities/regional-world-map.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Collabratec®\n\t\t\t\t",
-        "url": "http://collabratec.ieee.org/?utm_source=mm_link&utm_campaign=coll&utm_medium=ms&utm_term=collabratec"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Resource Centers\n\t\t\t\t",
-        "url": "/communities/ieee-resource-centers.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE DataPort\n\t\t\t\t",
-        "url": "/communities/ieee-dataport.html"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Join an IEEE Society",
-        "url": "https://www.ieee.org/membership-catalog/index.html?srchProdType=Societies&searchType=prodType"
-    },
-    {
-        "type": "link",
-        "text": "See the IEEE Regions",
-        "url": "/communities/regional-world-map.html?utm_source=wdw&utm_campaign=region_map&utm_medium=com&utm_term=regions%20map"
-    },
-    {
-        "type": "link",
-        "text": "View the MGA Operations Manual",
-        "url": "https://mga.ieee.org/board-committees/operations-manual"
-    },
-    {
-        "type": "link",
-        "text": "Find information on IEEE Technical Activities",
-        "url": "/about/volunteers/tab/home/index.html"
-    },
-    {
-        "type": "link",
-        "text": "Get IEEE Chapter resources",
-        "url": "https://mga.ieee.org/resources-operations/geographic-unit/chapters"
-    },
-    {
-        "type": "link",
-        "text": "Find IEEE Sections, Chapters, Student Branches, and other communities",
-        "url": "/communities/geographic-activities.html?utm_source=wdw&utm_campaign=geo_act&utm_medium=com&utm_term=geographic%20activities"
-    },
-    {
-        "type": "link",
-        "text": "Learn how to create an IEEE Student Chapter",
-        "url": "https://students.ieee.org/student-branches/"
-    },
-    {
-        "type": "link",
-        "text": "See results",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\tConferences\n             ",
-        "url": "/conferences.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tUpcoming conferences\n\t\t\t\t",
-        "url": "https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=&to=®ion=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance?utm_source=mm_con_search&utm_medium=hp&utm_campaign=conferences-search-all"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Meetings, Conferences & Events (MCE)\n\t\t\t\t",
-        "url": "http://ieeemce.org"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Conference Application\n\t\t\t\t",
-        "url": "/conferences/organizers/conf-app.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Conference Organizer Education Program\n\t\t\t\t",
-        "url": "/conferences/organizers/conference-organizer-education.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tSee benefits of authoring a conference paper\n\t\t\t\t",
-        "url": "/publications/authors/publishing-benefits/index.html"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Search for 2025 conferences",
-        "url": "https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=2025-01-01&to=2025-12-31®ion=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance&searchmode=basic&virtualConfReadOnly=N&eventformat="
-    },
-    {
-        "type": "link",
-        "text": "Search for 2024 conferences",
-        "url": "https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=2024-01-01&to=2024-12-31®ion=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance&searchmode=basic&virtualConfReadOnly=N&eventformat="
-    },
-    {
-        "type": "link",
-        "text": "Find conference organizer resources",
-        "url": "/conferences/organizers/organizers-index.html?utm_source=mm_wdw&utm_campaign=org_resources&utm_medium=conf&utm_term=organizer%20resources"
-    },
-    {
-        "type": "link",
-        "text": "Register a conference",
-        "url": "/conferences/application-form.html?utm_source=mm_wdw&utm_campaign=register_conf&utm_medium=conf&utm_term=register%20a%20conference"
-    },
-    {
-        "type": "link",
-        "text": "Publish conference papers",
-        "url": "/conferences/organizers/publishing-conference-papers.html?utm_source=mm_wdw&utm_campaign=conf_pap&utm_medium=conf&utm_term=publish%20conference%20papers"
-    },
-    {
-        "type": "link",
-        "text": "Manage conference finances",
-        "url": "/conferences/organizers/managing-conference-finances.html?utm_source=mm_wdw&utm_campaign=conf_fin&utm_medium=conf&utm_term=conference%20finances"
-    },
-    {
-        "type": "link",
-        "text": "Learn about IEEE Meetings, Conferences & Events (MCE)",
-        "url": "http://www.ieeemce.org?utm_source=mm_wdw&utm_campaign=ben_pub&utm_medium=conf&utm_term=benefits_publishing"
-    },
-    {
-        "type": "link",
-        "text": "See results",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\tStandards\n             ",
-        "url": "/standards.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tVisit the IEEE SA site\n\t\t\t\t",
-        "url": "http://standards.ieee.org/"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tBecome a member of the IEEE SA\n\t\t\t\t",
-        "url": "https://standards.ieee.org/about/membership/?_ga=2.132795785.620929615.1638192524-1590554406.1633466825"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tFind information on the IEEE Registration Authority\n\t\t\t\t",
-        "url": "https://standards.ieee.org/products-services/regauth/?_ga=2.22833596.620929615.1638192524-1590554406.1633466825"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tObtain a MAC, OUI, or Ethernet address\n\t\t\t\t",
-        "url": "http://regauth.standards.ieee.org/?_ga=2.195330091.620929615.1638192524-1590554406.1633466825"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tAccess the IEEE 802.11™ WLAN standard\n\t\t\t\t",
-        "url": "https://standards.ieee.org/ieee/802.11/4523/?_ga=2.129204235.620929615.1638192524-1590554406.1633466825"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tPurchase standards\n\t\t\t\t",
-        "url": "http://www.techstreet.com/ieee?utm_source=mm_link&utm_campaign=techstreet&utm_medium=std&utm_term=buy%20standards%2C%20techstreet"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tGet free select IEEE standards\n\t\t\t\t",
-        "url": "https://ieeexplore.ieee.org/browse/standards/get-program/page?utm_source=lp_wdw&utm_campaign=free_std&utm_medium=std&utm_term=free%20standards&_ga=2.199388329.620929615.1638192524-1590554406.1633466825"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tPurchase standards subscriptions on IEEE Xplore®\n\t\t\t\t",
-        "url": "http://innovate.ieee.org/ieee-standards-online-collections/?_ga=2.198405288.620929615.1638192524-1590554406.1633466825"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tGet involved with standards development\n\t\t\t\t",
-        "url": "https://standards.ieee.org/participate/?_ga=2.198354984.620929615.1638192524-1590554406.1633466825"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tFind a working group\n\t\t\t\t",
-        "url": "http://standards.ieee.org/develop/index.html?_ga=2.202588566.620929615.1638192524-1590554406.1633466825"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Find information on IEEE 802.11™",
-        "url": "https://ieeexplore.ieee.org/browse/standards/get-program/page/series?id=68&utm_source=lp_wdw&utm_campaign=80211&utm_medium=std&utm_term=80211m=std&utm_term=80211"
-    },
-    {
-        "type": "link",
-        "text": "Access the National Electrical Safety Code® (NESC®)",
-        "url": "https://standards.ieee.org/products-programs/nesc/?utm_source=mm_wdw&utm_campaign=nesc&utm_medium=std&utm_term=nesc"
-    },
-    {
-        "type": "link",
-        "text": "Find MAC, OUI, and Ethernet addresses from Registration Authority (regauth)",
-        "url": "https://standards.ieee.org/products-programs/regauth/?utm_source=mm_wdw&utm_campaign=regauth&utm_medium=std&utm_term=regauth"
-    },
-    {
-        "type": "link",
-        "text": "Get free IEEE standards",
-        "url": "https://ieeexplore.ieee.org/browse/standards/get-program/page/"
-    },
-    {
-        "type": "link",
-        "text": "Learn more about the IEEE Standards Association",
-        "url": "http://standards.ieee.org/about/index.html?utm_source=mm_wdw&utm_campaign=std_info&utm_medium=std&utm_term=standards%20association%20info"
-    },
-    {
-        "type": "link",
-        "text": "View Software and Systems Engineering Standards",
-        "url": "https://standards.ieee.org/search/?q=Software%20and%20Systems%20Engineering&topic=%7CSoftware%20and%20Systems%20Engineering&type=%7CStandard&utm_source=lp_wdw&utm_campaign=soft_eng&utm_medium=std&utm_term=software%20engineering"
-    },
-    {
-        "type": "link",
-        "text": "See results",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\tPublications\n             ",
-        "url": "/publications.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Xplore® Digital Library\n\t\t\t\t",
-        "url": "http://ieeexplore.ieee.org/Xplore/guesthome.jsp?utm_source=mm_link&utm_campaign=vix&utm_medium=pubs&utm_term=Xplore%20guest"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tSubscription options\n\t\t\t\t",
-        "url": "http://innovate.ieee.org/?utm_source=mm_link&utm_campaign=lp&utm_medium=pubs&utm_term=innovate%20subscription%20options"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Spectrum\n\t\t\t\t",
-        "url": "http://spectrum.ieee.org/?utm_source=mm_link&utm_campaign=sp&utm_medium=pubs&utm_term=spectrum%20home"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tThe Institute\n\t\t\t\t",
-        "url": "http://theinstitute.ieee.org/?utm_source=mm_link&utm_campaign=inst&utm_medium=pubs&utm_term=institute%20home"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tProceedings of the IEEE\n\t\t\t\t",
-        "url": "http://proceedingsoftheieee.ieee.org"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Open\n\t\t\t\t",
-        "url": "https://open.ieee.org/"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Access®\n\t\t\t\t",
-        "url": "http://ieeeaccess.ieee.org"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tAuthor resources\n\t\t\t\t",
-        "url": "http://ieeeauthorcenter.ieee.org/"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Collabratec®\n\t\t\t\t",
-        "url": "http://collabratec.ieee.org/?utm_source=mm_link&utm_campaign=coll&utm_medium=ms&utm_term=collabratec"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Press\n\t\t\t\t",
-        "url": "/publications/books/index.html"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Get an IEEE Xplore Digital Library trial for IEEE members",
-        "url": "/publications/subscriptions/products/mdl/free-trial.html?utm_source=mm_wdw&utm_campaign=xtrial&utm_medium=pubs&utm_term=Xplore%20trial"
-    },
-    {
-        "type": "link",
-        "text": "Review impact factors of IEEE journals",
-        "url": "/publications/subscriptions/journal-citations.html?utm_source=mm_wdw&utm_campaign=xtrial&utm_medium=pubs&utm_term=impact-factor"
-    },
-    {
-        "type": "link",
-        "text": "Request access to the IEEE Thesaurus and Taxonomy",
-        "url": "/publications/services/thesaurus-access-page.html?utm_source=mm_wdw&utm_campaign=xtrial&utm_medium=pubs&utm_term=thesaurus-taxonomy"
-    },
-    {
-        "type": "link",
-        "text": "Access the IEEE copyright form",
-        "url": "/publications/rights/copyright-main.html"
-    },
-    {
-        "type": "link",
-        "text": "Find article templates in Word and LaTeX formats",
-        "url": "http://www.ieee.org/publications_standards/publications/authors/author_templates.html?utm_source=mm_wdw&utm_campaign=templates&utm_medium=pubs&utm_term=author%20templates"
-    },
-    {
-        "type": "link",
-        "text": "Get author education resources",
-        "url": "http://www.ieee.org/publications_standards/publications/authors/author_education?utm_source=mm_wdw&utm_campaign=author_ed&utm_medium=pubs&utm_term=author%20education"
-    },
-    {
-        "type": "link",
-        "text": "Visit the IEEE Xplore digital library",
-        "url": "http://ieeexplore.ieee.org/?utm_source=mm_wdw&utm_campaign=xplore&utm_medium=pubs&utm_term=xplore"
-    },
-    {
-        "type": "link",
-        "text": "Find Author Digital Tools for IEEE paper submission",
-        "url": "http://ieeeauthorcenter.ieee.org/?utm_source=mm_wdw&utm_campaign=author_tools&utm_medium=pubs&utm_term=author%2520digital%2520tools"
-    },
-    {
-        "type": "link",
-        "text": "Review the IEEE plagiarism policy",
-        "url": "/publications/rights/plagiarism/index.html?utm_source=mm_wdw&utm_campaign=plagiarism&utm_medium=pubs&utm_term=plagiarism%20policy"
-    },
-    {
-        "type": "link",
-        "text": "Get information about all stages of publishing with IEEE",
-        "url": "https://ieeeauthorcenter.ieee.org/?utm_source=wdw&utm_medium=lp-pubs&utm_campaign=stage-of-publishing"
-    },
-    {
-        "type": "link",
-        "text": "See results",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\tEducation\n             ",
-        "url": "/education.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Learning Network (ILN)\n\t\t\t\t",
-        "url": "/education/iln.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Credentialing Program\n\t\t\t\t",
-        "url": "/education/credentialing/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tPre-university\n\t\t\t\t",
-        "url": "/education/preuniversity.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE-Eta Kappa Nu\n\t\t\t\t",
-        "url": "/education/hkn-index.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tAccreditation\n\t\t\t\t",
-        "url": "/education/accreditation.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\t\t\t\t\tIEEE Resource Centers\n\t\t\t\t",
-        "url": "/communities/ieee-resource-centers.html?utm_source=mm_link&utm_campaign=resourcecenters&utm_medium=ms&utm_term=resourcecenters"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Access continuing education courses on the IEEE Learning Network",
-        "url": "https://iln.ieee.org/public/TrainingCatalog.aspx?_ga=2.229099423.288629489.1603724526-973538082.1603388995?utm_source=mm_wdw&utm_campaign=certificates&utm_medium=ec&utm_term=iln"
-    },
-    {
-        "type": "link",
-        "text": "Find STEM education resources on TryEngineering.org",
-        "url": "https://tryengineering.org/?utm_source=mm_wdw&utm_campaign=tryeng&utm_medium=ec&utm_term=Try%20Engineering"
-    },
-    {
-        "type": "link",
-        "text": "Learn about the TryEngineering Summer Institute for high school students",
-        "url": "https://tryengineeringinstitute.ieee.org/?_ga=2.242008833.288629489.1603724526-973538082.1603388995?utm_source=mm_wdw&utm_campaign=certificates&utm_medium=ec&utm_term=summer"
-    },
-    {
-        "type": "link",
-        "text": "Explore university education program resources",
-        "url": "/education/university-programs.html?utm_source=mm_wdw&utm_campaign=univ_prog&utm_medium=ec&utm_term=university%20programs"
-    },
-    {
-        "type": "link",
-        "text": "Access pre-university STEM education resources",
-        "url": "https://tryengineering.org/?utm_source=mm_wdw&utm_campaign=pre_univ&utm_medium=ec&utm_term=pre-university%20program"
-    },
-    {
-        "type": "link",
-        "text": "Learn about IEEE certificates and how to offer them",
-        "url": "/education/credentialing/index.html?utm_source=mm_wdw&utm_campaign=certificates&utm_medium=ec&utm_term=e-learning"
-    },
-    {
-        "type": "link",
-        "text": "Find information about the IEEE-Eta Kappa Nu honor society",
-        "url": "https://hkn.ieee.org?utm_source=mm_wdw&utm_campaign=hkn&utm_medium=ec&utm_term=hkn"
-    },
-    {
-        "type": "link",
-        "text": "Learn about resources for final-year engineering projects",
-        "url": "/about/ieee-projects.html?utm_source=mm_wdw&utm_campaign=projects&utm_medium=ec&utm_term=projects"
-    },
-    {
-        "type": "link",
-        "text": "Access career resources",
-        "url": "/about/employers-job-seekers.html?utm_source=mm_wdw&utm_campaign=career_res&utm_medium=ec&utm_term=career%20resources"
-    },
-    {
-        "type": "link",
-        "text": "Get information about all stages of publishing with IEEE",
-        "url": "http://ieeeauthorcenter.ieee.org/?utm_source=wdw&utm_medium=lp-education&utm_campaign=stage-of-publishing"
-    },
-    {
-        "type": "link",
-        "text": "See results",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "JOIN IEEE",
-        "url": "/membership/join/index.html?WT.mc_id=hc_join"
-    },
-    {
-        "type": "link",
-        "text": "Learn More",
-        "url": "/about/at-a-glance.html"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "Learn More",
-        "url": "/about/at-a-glance.html"
-    },
-    {
-        "type": "link",
-        "text": "Renew your membership →",
-        "url": "/membership/renew.html?utm_source=hp&utm_campaign=hp_renew"
-    },
-    {
-        "type": "link",
-        "text": "Join a community →",
-        "url": "/communities/index.html?utm_source=hp&utm_campaign=hp-join-community"
-    },
-    {
-        "type": "link",
-        "text": "Add a Society →",
-        "url": "https://www.ieee.org/membership-catalog/index.html?srchProdType=Societies&searchType=prodType"
-    },
-    {
-        "type": "link",
-        "text": "Get your company engaged →",
-        "url": "/membership/ieee-corporate-engagement.html?utm_source=hp&utm_campaign=hp-get-engaged"
-    },
-    {
-        "type": "link",
-        "text": "Network and collaborate →",
-        "url": "https://ieee-collabratec.ieee.org/?utm_source=hp&utm_campaign=hp-collabratec"
-    },
-    {
-        "type": "link",
-        "text": "Discover communities →",
-        "url": "/communities/index.html?utm_source=hp&utm_campaign=hp-discover-communities"
-    },
-    {
-        "type": "link",
-        "text": "Find local activities and events →",
-        "url": "/communities/regional-world-map.html?utm_source=hp&utm_campaign=hp-find-events"
-    },
-    {
-        "type": "link",
-        "text": "Get the latest news →",
-        "url": "/about/news/index.html?utm_source=hp&utm_campaign=hp-get-news"
-    },
-    {
-        "type": "link",
-        "text": "Become a member →",
-        "url": "/membership/join/index.html?utm_source=hp&utm_campaign=hp-become-member"
-    },
-    {
-        "type": "link",
-        "text": "Volunteer →",
-        "url": "/about/volunteers/index.html?utm_source=hp&utm_campaign=hp-volunteers"
-    },
-    {
-        "type": "link",
-        "text": "Join a Society →",
-        "url": "https://www.ieee.org/membership-catalog/index.html?srchProdType=Societies&searchType=prodType"
-    },
-    {
-        "type": "link",
-        "text": "Attend or organize a conference →",
-        "url": "/conferences/index.html?utm_source=hp&utm_campaign=hp-attend-conference"
-    },
-    {
-        "type": "link",
-        "text": "Publish a paper →",
-        "url": "http://ieeeauthorcenter.ieee.org/?utm_source=hp&utm_campaign=hp-publish-paper"
-    },
-    {
-        "type": "link",
-        "text": "Join a standards working group →",
-        "url": "http://standards.ieee.org/develop/index.html?utm_source=hp&utm_campaign=hp-join-working-group&_ga=2.108801860.752991301.1606748566-1684454836.1594325164"
-    },
-    {
-        "type": "link",
-        "text": "Donate to the IEEE Foundation →",
-        "url": "https://www.ieeefoundation.org/?utm_source=hp&utm_campaign=hp-donate-ieee-foundation"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://ieeeday.org/?utm_source=dhtml_image&utm_medium=hp&utm_campaign=ieee-day-15&hp_pos=1"
-    },
-    {
-        "type": "link",
-        "text": "See more",
-        "url": "https://ieeeday.org/?utm_source=dhtml_text&utm_medium=hp&utm_campaign=ieee-day-15&hp_pos=1"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://engage.ieee.org/August24-IEEE-PECF-Sign-Up.html?utm_source=dhtml_image&utm_medium=hp&utm_campaign=candidate-forum&hp_pos=3"
-    },
-    {
-        "type": "link",
-        "text": "View the recording",
-        "url": "https://ieeetv.ieee.org/channels/ieeetv-specials/meet-the-2025-ieee-president-elect-candidates-forum?utm_source=dhtml_text&utm_medium=hp&utm_campaign=candidate-forum-learn&hp_pos=3"
-    },
-    {
-        "type": "link",
-        "text": "Register for the livestream event",
-        "url": "https://engage.ieee.org/August24-IEEE-PECF-Sign-Up.html?utm_source=dhtml_text&utm_medium=hp&utm_campaign=candidate-forum&hp_pos=3"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://online.flippingbook.com/view/689251980/?utm_source=dhtml_image&utm_medium=hp&utm_campaign=140-ebook&hp_pos=3"
-    },
-    {
-        "type": "link",
-        "text": "Read the book",
-        "url": "https://online.flippingbook.com/view/689251980/?utm_source=dhtml_text&utm_medium=hp&utm_campaign=140-ebook&hp_pos=3"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://2024.ieeeicip.org/?utm_source=dhtml_image&utm_medium=hp&utm_campaign=icip2024&hp_pos=4"
-    },
-    {
-        "type": "link",
-        "text": "Register today",
-        "url": "https://2024.ieeeicip.org/?utm_source=dhtml_text&utm_medium=hp&utm_campaign=icip2024&hp_pos=4"
-    },
-    {
-        "type": "link",
-        "text": "Search all IEEE conferences",
-        "url": "https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=&to=&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance?utm_source=dhtml_con_search&utm_medium=hp&utm_campaign=conferences-search-icip2024"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://bit.ly/3Pc6P0Y?utm_source=dhtml_image&utm_medium=hp&utm_campaign=professional-development-suite&hp_pos=5"
-    },
-    {
-        "type": "link",
-        "text": "Invest in your team's success",
-        "url": "https://bit.ly/3Pc6P0Y?utm_source=dhtml_text&utm_medium=hp&utm_campaign=professional-development-suite&hp_pos=5"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://youtu.be/wQmNI-d9JJk?utm_source=dhtml_image&utm_medium=hp&utm_campaign=paris-olympics&hp_pos=6"
-    },
-    {
-        "type": "link",
-        "text": "Watch the video",
-        "url": "https://youtu.be/wQmNI-d9JJk?utm_source=dhtml_text&utm_medium=hp&utm_campaign=paris-olympics&hp_pos=6"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://corporate-awards.ieee.org/recipients/current-recipients/?utm_source=whatshappening_image&utm_medium=hp&utm_campaign=tfa-awards&hp_pos=7"
-    },
-    {
-        "type": "link",
-        "text": "Technical Field Awards recognize the outstanding contributions of the brilliant minds who are shaping the future of technology; see the recipients",
-        "url": "https://corporate-awards.ieee.org/recipients/current-recipients/?utm_source=whatshappening_text&utm_medium=hp&utm_campaign=tfa-awards&hp_pos=7"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://climate-change.ieee.org/news/quantum-technology/?utm_source=whatshappening_text&utm_medium=hp&utm_campaign=quantum-computing&hp_pos=8"
-    },
-    {
-        "type": "link",
-        "text": "Quantum computing's advantages are evident, particularly when studying climate and optimizing energy resource use",
-        "url": "https://climate-change.ieee.org/news/quantum-technology/?utm_source=whatshappening_text&utm_medium=hp&utm_campaign=quantum-computing&hp_pos=8"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "/your-professional-home/index.html?utm_source=dhtml_image&utm_medium=hp&utm_campaign=your-professional-home&hp_pos=9"
-    },
-    {
-        "type": "link",
-        "text": "No matter where you are in your engineering journey, IEEE can help you find your path",
-        "url": "/your-professional-home/index.html?utm_source=dhtml_text&utm_medium=hp&utm_campaign=your-professional-home&hp_pos=9"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "/about/news/index.html?utm_source=whatshappening_image&utm_medium=hp&utm_campaign=newsroom&hp_pos=10"
-    },
-    {
-        "type": "link",
-        "text": "Read the latest in the IEEE newsroom",
-        "url": "/about/news/index.html?utm_source=whatshappening_text&utm_medium=hp&utm_campaign=newsroom&hp_pos=10"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://spectrum.ieee.org/ai-coding/?utm_source=dhtml_image&utm_medium=hp&utm_campaign=sp-mini-robot&hp_pos=11"
-    },
-    {
-        "type": "link",
-        "text": "See how AI is changing the way professionals teach coding",
-        "url": "https://spectrum.ieee.org/ai-coding?utm_source=dhtml_text&utm_medium=hp&utm_campaign=sp-mini-robot&hp_pos=11"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://spectrum.ieee.org/management-versus-technical-track/?utm_source=dhtml_image&utm_medium=hp&utm_campaign=in-running-man&hp_pos=12"
-    },
-    {
-        "type": "link",
-        "text": "Weigh your options when it comes to pursuing a management position or sticking to the technical track",
-        "url": "https://spectrum.ieee.org/management-versus-technical-track?utm_source=dhtml_text&utm_medium=hp&utm_campaign=in-running-man&hp_pos=12"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "/communities/societies/index.html?utm_source=whatshappening_image&utm_medium=hp&utm_campaign=societies&hp_pos=13"
-    },
-    {
-        "type": "link",
-        "text": "Stay current, network, and invest in your career with IEEE Societies",
-        "url": "/communities/societies/index.html?utm_source=whatshappening_text&utm_medium=hp&utm_campaign=societies&hp_pos=13"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "/about/diversity-index.html?utm_source=dhtml_image&utm_medium=hp&utm_campaign=diversity-equity-inclusion&hp_pos=14"
-    },
-    {
-        "type": "link",
-        "text": "Learn how IEEE and its members are working to grow diversity, equity, and inclusion in IEEE activities and in the technical profession\n",
-        "url": "/about/diversity-index.html?utm_source=dhtml_text&utm_medium=hp&utm_campaign=diversity-equity-inclusion&hp_pos=14"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": "https://standards.ieee.org/"
-    },
-    {
-        "type": "link",
-        "text": "1,100+ standards \nLearn more at the IEEE Standards Association",
-        "url": "https://standards.ieee.org/"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": "https://ieeexplore.ieee.org/Xplore/home.jsp"
-    },
-    {
-        "type": "link",
-        "text": "6 million+ technical articles\nVisit IEEE Xplore ",
-        "url": "https://ieeexplore.ieee.org/Xplore/home.jsp"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": "/communities/index.html"
-    },
-    {
-        "type": "link",
-        "text": "39 Technical Societies, \n 8 Councils\nFind your technical interest",
-        "url": "/communities/index.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": "/membership/index.html"
-    },
-    {
-        "type": "link",
-        "text": "460,000+ members\nExplore what membership can offer you",
-        "url": "/membership/index.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": "/communities/regional-world-map.html"
-    },
-    {
-        "type": "link",
-        "text": "340+ local sections\nConnect locally with fellow IEEE members",
-        "url": "/communities/regional-world-map.html"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": "/conferences/index.html"
-    },
-    {
-        "type": "link",
-        "text": "2,000+ conferences \nExperience cutting-edge technical content",
-        "url": "/conferences/index.html"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Select an option",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "Authors",
-        "url": "https://www.ieee.org/publications_standards/publications/authors/author_information.html"
-    },
-    {
-        "type": "link",
-        "text": "Conference Organizers",
-        "url": "https://ieeemce.org/"
-    },
-    {
-        "type": "link",
-        "text": "Educators",
-        "url": "/education/index.html"
-    },
-    {
-        "type": "link",
-        "text": "Employers & Job Seekers",
-        "url": "/about/employers-job-seekers.html"
-    },
-    {
-        "type": "link",
-        "text": "FAQs",
-        "url": "https://supportcenter.ieee.org/app/home?utm_source=hp&utm_campaign=faq&utm_medium=how&utm_term=support%20center%2C%20faqs"
-    },
-    {
-        "type": "link",
-        "text": "Media & Journalists",
-        "url": "/about/news/media-kit-index.html"
-    },
-    {
-        "type": "link",
-        "text": "Members",
-        "url": "/membership/index.html"
-    },
-    {
-        "type": "link",
-        "text": "Researchers",
-        "url": "http://ieeexplore.ieee.org/Xplore/home.jsp?utm_source=hp&utm_campaign=xpl_research&utm_medium=how&utm_term=Xplore%20researchers"
-    },
-    {
-        "type": "link",
-        "text": "Students",
-        "url": "https://students.ieee.org/student-members/"
-    },
-    {
-        "type": "link",
-        "text": "Volunteers",
-        "url": "/about/volunteers/index.html"
-    },
-    {
-        "type": "link",
-        "text": "Women in Engineering",
-        "url": "https://www.ieee.org/membership_services/membership/women/women_in_engineering.html"
-    },
-    {
-        "type": "link",
-        "text": "Young Professionals",
-        "url": "https://yp.ieee.org/"
-    },
-    {
-        "type": "link",
-        "text": "See results",
-        "url": "#"
-    },
-    {
-        "type": "link",
-        "text": "About IEEE ",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\nLearn more about IEEE\n        ",
-        "url": "/about/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=learn-more"
-    },
-    {
-        "type": "link",
-        "text": "\nIEEE Mission & Vision\n        ",
-        "url": "/about/vision-mission.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=mission-vision"
-    },
-    {
-        "type": "link",
-        "text": "Locations ",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\nIEEE office locations\n        ",
-        "url": "/about/contact.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=office-locations"
-    },
-    {
-        "type": "link",
-        "text": "Membership ",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\nJoin\n        ",
-        "url": "/membership/join/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=join"
-    },
-    {
-        "type": "link",
-        "text": "\nRenew\n        ",
-        "url": "/membership/renew.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew"
-    },
-    {
-        "type": "link",
-        "text": "\nBenefits\n        ",
-        "url": "/membership/benefits/index.html"
-    },
-    {
-        "type": "link",
-        "text": "\nIEEE Collabratec\n        ",
-        "url": "https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list"
-    },
-    {
-        "type": "link",
-        "text": "\nReport cybersecurity concerns to security@ieee.org\n        ",
-        "url": "mailto:security@ieee.org"
-    },
-    {
-        "type": "link",
-        "text": "Get involved ",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "\nConferences\n        ",
-        "url": "/conferences/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=conferences"
-    },
-    {
-        "type": "link",
-        "text": "\nLocal activities\n        ",
-        "url": "/communities/geographic-activities.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=local-activities"
-    },
-    {
-        "type": "link",
-        "text": "\nPublishing\n        ",
-        "url": "/publications/authors/publishing-benefits/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=publishing"
-    },
-    {
-        "type": "link",
-        "text": "\nSocieties\n        ",
-        "url": "/communities/societies/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=societies"
-    },
-    {
-        "type": "link",
-        "text": "\nCouncils\n        ",
-        "url": "/communities/societies/about-technical-councils.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=councils"
-    },
-    {
-        "type": "link",
-        "text": "\nStandards\n        ",
-        "url": "http://standards.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=standards&_ga=2.138828091.983862010.1583757310-1875752245.1558373461"
-    },
-    {
-        "type": "link",
-        "text": "\nTechnical careers\n        ",
-        "url": "http://careers.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=technical-careers"
-    },
-    {
-        "type": "link",
-        "text": "\nVolunteer\n        ",
-        "url": "/about/volunteers/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=volunteer"
-    },
-    {
-        "type": "link",
-        "text": "Connect with IEEE ",
-        "url": null
-    },
-    {
-        "type": "link",
-        "text": "Contact & Support",
-        "url": "/about/contact.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=contact-support-button"
-    },
-    {
-        "type": "link",
-        "text": "\nIEEE Collabratec\n        ",
-        "url": "http://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec"
-    },
-    {
-        "type": "link",
-        "text": "\nCareers at IEEE\n        ",
-        "url": "https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee"
-    },
-    {
-        "type": "link",
-        "text": "\nIEEE Newsroom\n        ",
-        "url": "/about/news/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=newsroom"
-    },
-    {
-        "type": "link",
-        "text": "\nIEEE Media Kit\n        ",
-        "url": "/about/news/media-kit-index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=media-kit"
-    },
-    {
-        "type": "link",
-        "text": "\nIEEE Learning Network\n        ",
-        "url": "https://iln.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=iln&_ga=2.163606711.983862010.1583757310-1875752245.1558373461"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://climate-change.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=climate-change"
-    },
-    {
-        "type": "link",
-        "text": "",
-        "url": "https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=sm-collabratec"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://www.facebook.com/pages/IEEE/176104589110851?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=sm-facebook"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://twitter.com/IEEEorg?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=sm-twitter"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://www.linkedin.com/company/ieee?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=sm-linkedin"
-    },
-    {
-        "type": "link",
-        "text": "\n\n",
-        "url": "https://www.instagram.com/ieeeorg/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=sm-youtube"
-    },
-    {
-        "type": "link",
-        "text": "\n\ntop of page\n",
-        "url": "#top"
-    },
-    {
-        "type": "link",
-        "text": "Home",
-        "url": "/"
-    },
-    {
-        "type": "link",
-        "text": "Sitemap",
-        "url": "/sitemap.html"
-    },
-    {
-        "type": "link",
-        "text": "Contact & Support",
-        "url": "/about/contact.html"
-    },
-    {
-        "type": "link",
-        "text": "Accessibility",
-        "url": "/accessibility-statement.html"
-    },
-    {
-        "type": "link",
-        "text": "Nondiscrimination Policy",
-        "url": "/about/corporate/governance/p9-26.html"
-    },
-    {
-        "type": "link",
-        "text": "IEEE Ethics Reporting",
-        "url": "https://secure.ethicspoint.com/domain/media/en/gui/20410/index.html"
-    },
-    {
-        "type": "link",
-        "text": "IEEE Privacy Policy",
-        "url": "/security-privacy.html"
-    },
-    {
-        "type": "link",
-        "text": "Terms & Disclosures",
-        "url": "/about/help/site-terms-conditions.html"
-    },
-    {
-        "type": "link",
-        "text": "Feedback",
-        "url": "/about/feedback-ieee-site.html"
+        "title": "4th International Conference on Electronic and Electrical Engineering and Intelligent System (ICE3IS)",
+        "date": "07 Aug 2024",
+        "location": "Yogyakarta,",
+        "link": "#"
     }
 ]
