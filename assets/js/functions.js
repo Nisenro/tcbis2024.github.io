@@ -76,3 +76,25 @@ function changeBackground() {
 }
 
 setInterval(changeBackground, 3000);
+
+// function responsible for moving conferences to past
+
+document.addEventListener('DOMContentLoaded', function() {
+  const today = new Date();
+  const upcomingContainer = document.getElementById('upcoming-conferences');
+  const pastContainer = document.getElementById('past-conferences');
+
+  // Get all conferences
+  const conferences = document.querySelectorAll('.conference');
+
+  conferences.forEach(conference => {
+      const dateStr = conference.getAttribute('data-date');
+      const conferenceDate = new Date(dateStr);
+
+      // Compare dates
+      if (conferenceDate < today) {
+          conference.classList.add('past');
+          pastContainer.appendChild(conference);
+      }
+  });
+});

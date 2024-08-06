@@ -8,7 +8,7 @@ title: home
     <h1>IEEE Technical Community On Business Informatics And Systems. </h1>
     <div class="backgrounds-container">
         <img class="showing background" src="./assets/images/china.jpeg">
-        <img class="showing background" src="./assets/images/uk.jpg">
+        <!-- <img class="showing background" src="./assets/images/uk.jpg"> -->
         <img class="background" src="./assets/images/france.jpg">
         <img class="background" src="./assets/images/germany.jpg">
         <img class="background" src="./assets/images/portugal.jpg">
