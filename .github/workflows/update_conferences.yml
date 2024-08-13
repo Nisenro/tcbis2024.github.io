@@ -1,0 +1,49 @@
+name: Update Conferences Data
+
+on:
+  push:
+    branches:
+      - master  # Triggers the action when changes are pushed to the master branch
+  schedule:
+    - cron: '0 0 * * 1'  # Optional: Runs every Monday at midnight (UTC)
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: '3.12'  # state the current version you have
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install scrapy
+
+    - name: Run the web crawler
+      run: |
+        cd C:/Users/adegb/Desktop/tcbis/ieee_scrapy
+        scrapy crawl events
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add _data/conferences.json
+        git commit -m "Update conferences data"
+        git push origin master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+        # Step 5: Deploy the built site to GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication, stored as a secret
+        publish_branch: gh-pages  # Branch to push the built site
+        publish_dir: ./_site  # Directory to publish to GitHub Pages, where Jekyll outputs the built site

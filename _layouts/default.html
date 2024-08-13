@@ -15,7 +15,7 @@
             <img class="main-logo" src="{{ '/assets/images/tcbislogo.png' | relative_url }}" alt="TCBIS Logo">
             <ul class="nav-content">
                 <li class="nav-item"><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
-                <li class="nav-item"><a href="{{ '/conference' | relative_url }}" class="{% if page.url == '/conference/' %}active{% endif %}">Conferences</a></li>
+                <li class="nav-item"><a href="{{ '/conference' | relative_url }}" class="{% if page.url == '/conference/_data/conferences.json' %}active{% endif %}">Conferences</a></li>
                 <li class="nav-item"><a href="{{ '/executive-members' | relative_url }}" class="{% if page.url == '/executive-members/' %}active{% endif %}">Executive Members</a></li>
                 <li class="nav-item"><a href="{{ '/join-us' | relative_url }}" class="{% if page.url == '/join-us/' %}active{% endif %}">Join Us</a></li>
                 <li class="nav-item"><a href="{{ '/contact' | relative_url }}" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a></li>

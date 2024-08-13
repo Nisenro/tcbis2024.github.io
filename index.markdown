@@ -20,7 +20,9 @@ title: home
 </div>   
 
 <div class="about-section">
-    <h3>About Us</h3>
+    <div class="heading-bg">
+        <h3>About Us</h3>
+    </div>
     <div class="about">
         <img src="./assets/images/businfo.png" alt="" srcset="">
         <p class="about-content">Business Informatics takes a systematic and analytic approach to aligning
