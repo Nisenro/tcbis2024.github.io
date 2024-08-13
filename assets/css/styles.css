@@ -7,7 +7,7 @@
 
 body {
     height: 100vh;
-    
+    overflow-x: hidden;
  }
 
  /* @media only screen and (max-width: 767px) {
@@ -16,9 +16,9 @@ body {
  */
 
 
- .top-bar {
+ /* .top-bar {
     width: 100%;
- }
+ } */
 
 .links-bar {
     background-color: rgb(43, 42, 42);
@@ -155,6 +155,18 @@ body {
     
 }
 
+/* .about-section .heading-bg {
+    height: 20px;
+    width: 40px;
+    position: relative;
+    text-align: center;
+    background-image: url(../images/heading-bg.jpg);
+}
+
+.heading-bg h3 {
+    background-color: #4CAF50;
+} */
+
 .about-section h3, 
 .role-section h3,
 .join-section h1,
@@ -188,18 +200,19 @@ body {
     font-size: 20px;
     line-height: 22px;
     height: 25rem;
-    background-color: #d9d9d9;
+    background-color: #32427A;
     padding: 32px;
-    color: #3f3f3f;
+    color: #fff;
 }
 
 .about-content span {
-    color: #073d87;
+    color: lightblue;
     font-size: 25px;
 }
 
 .role-section {
-    background-color: #d9d9d9;
+    background-color: rgb(96, 4, 61);
+    color: #fff;
 }
 
 .animated-list {
@@ -215,6 +228,7 @@ body {
     background-color: #fff;
     color: #142D84;
     border: 1px solid #ccc;
+    border-radius: 50px;
     padding: 20px;
     width: 70%;
     margin: 10px 0;
@@ -227,7 +241,8 @@ body {
 }
 
 .animated-list li:hover {
-    bacrgb(96, 4, 61)
+    background-color: #142D84;
+    color: #fff;
 }
 
 /* Animation styling for each role */
@@ -279,6 +294,41 @@ body {
   .roles-anime.slide-in-from-bottom {
     animation: slideInFromBottom 2s forwards;
   }
+
+  /* Styling for Conference Page */
+
+  .conferences {
+    padding: 40px;
+    font-family: Arial, sans-serif;
+}
+
+.conference-item {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+    margin-bottom: 15px;
+}
+
+.conference-title {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.conference-date,
+.conference-location,
+.conference-country {
+    font-size: 1em;
+    color: #666;
+}
+
+.conference-link {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.conference-link:hover {
+    text-decoration: underline;
+}
+
 
   /* Styling for Executive Committe Page */
 
