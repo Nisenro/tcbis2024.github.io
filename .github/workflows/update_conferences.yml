@@ -27,7 +27,7 @@ jobs:
 
     - name: Run the web crawler
       run: |
-        cd C:/Users/adegb/Desktop/tcbis/ieee_scrapy
+        cd ieee_scrapy
         scrapy crawl events
 
     - name: Commit and push changes
