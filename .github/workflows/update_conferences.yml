@@ -18,17 +18,20 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
-        python-version: '3.12'  # state the current version you have
+        python-version: '3.12'  # Specify your Python version
 
     - name: Install dependencies
       run: |
+        python -m venv venv  # Create a virtual environment
+        source venv/bin/activate  # Activate the virtual environment
         python -m pip install --upgrade pip
         pip install scrapy scrapy-splash
 
     - name: Run the web crawler
       run: |
-        cd ieee_scrapy
-        scrapy crawl events
+        source venv/bin/activate  # Activate the virtual environment
+        cd ieee_scrapy  # Navigate to your project directory
+        scrapy crawl events  # Run the Scrapy spider
 
     - name: Commit and push changes
       run: |
@@ -40,7 +43,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-        # Step 5: Deploy the built site to GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
