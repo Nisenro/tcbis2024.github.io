@@ -14,6 +14,10 @@ jobs:
     steps:
     - name: Checkout the repository
       uses: actions/checkout@v3
+      with:
+        sparse-checkout: |
+        ieee_scrapy
+          
 
     - name: Set up Python
       uses: actions/setup-python@v3
@@ -26,6 +30,10 @@ jobs:
         source venv/bin/activate  # Activate the virtual environment
         python -m pip install --upgrade pip
         pip install scrapy scrapy-splash
+
+    - name: Set PYTHONPATH
+      run: echo "PYTHONPATH=$PYTHONPATH:$(pwd)/ieee_scrapy" >> $GITHUB_ENV
+
 
     - name: Run the web crawler
       run: |
