@@ -7,7 +7,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "events"
+BOT_NAME = "ieee_scrapy"
 
 SPIDER_MODULES = ["ieee_scrapy.spiders.events"]
 NEWSPIDER_MODULE = "ieee_scrapy.spiders.events"
