@@ -9,8 +9,8 @@
 
 BOT_NAME = "events"
 
-SPIDER_MODULES = ["events.spiders"]
-NEWSPIDER_MODULE = "events.spiders"
+SPIDER_MODULES = ["ieee_scrapy.spiders.events"]
+NEWSPIDER_MODULE = "ieee_scrapy.spiders.events"
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 

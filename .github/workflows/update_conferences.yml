@@ -18,7 +18,6 @@ jobs:
         sparse-checkout: |
           ieee_scrapy
           
-
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
@@ -33,8 +32,6 @@ jobs:
 
     - name: Set PYTHONPATH
       run: echo "PYTHONPATH=$PYTHONPATH:/home/runner/work/tcbis2024.github.io/tcbis2024.github.io/ieee_scrapy" >> $GITHUB_ENV
-
-
 
     - name: Run the web crawler
       run: |

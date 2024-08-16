@@ -3,7 +3,7 @@ from scrapy_splash import SplashRequest
 import os
 import json
 
-class EventsSpider(scrapy.Spider):
+class Events(scrapy.Spider):
     name = "events"
     def start_requests(self):
         url = 'https://www.conferencelists.org/ieee/'
