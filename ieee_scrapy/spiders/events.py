@@ -2,6 +2,11 @@ import scrapy
 from scrapy_splash import SplashRequest 
 import os
 import json
+from sys import path
+
+path.append('C:\Users\adegb\Desktop\tcbis')
+
+from ieee_scrapy.items import IeeeScrapyItem
 
 class Events(scrapy.Spider):
     name = "events"
