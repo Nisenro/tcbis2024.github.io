@@ -31,7 +31,7 @@ jobs:
         pip install scrapy scrapy-splash
 
     - name: Set PYTHONPATH
-      run: echo "PYTHONPATH=$PYTHONPATH:/home/runner/work/tcbis2024.github.io/tcbis2024.github.io/ieee_scrapy/spiders/events" >> $GITHUB_ENV
+      run: echo "PYTHONPATH=$PYTHONPATH:C:\Users\adegb\Desktop\tcbis\ieee_scrapy\spiders\events.py" >> $GITHUB_ENV
 
     - name: Run the web crawler
       run: |
