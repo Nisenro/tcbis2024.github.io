@@ -1,19 +1,14 @@
 # Scrapy settings for ieee_scrapy project
-#
-# For simplicity, this file contains only settings considered important or
-# commonly used. You can find more settings consulting the documentation:
-#
-#     https://docs.scrapy.org/en/latest/topics/settings.html
-#     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-#     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 BOT_NAME = "ieee_scrapy"
 
-SPIDER_MODULES = ["ieee_scrapy.spiders.events"]
-NEWSPIDER_MODULE = "ieee_scrapy.spiders.events"
+SPIDER_MODULES = ["ieee_scrapy.spiders"]
+NEWSPIDER_MODULE = "ieee_scrapy.spiders"
+
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
+# Splash settings
 SPLASH_URL = 'http://localhost:8050'
 
 DOWNLOADER_MIDDLEWARES = {
@@ -29,8 +24,13 @@ SPIDER_MIDDLEWARES = {
 DUPEFILTER_CLASS = 'scrapy_splash.SplashAwareDupeFilter'
 HTTPCACHE_STORAGE = 'scrapy_splash.SplashAwareFSCacheStorage'
 
-
-
+#
+# For simplicity, this file contains only settings considered important or
+# commonly used. You can find more settings consulting the documentation:
+#
+#     https://docs.scrapy.org/en/latest/topics/settings.html
+#     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
+#     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "ieee_scrapy (+http://www.yourdomain.com)"
 

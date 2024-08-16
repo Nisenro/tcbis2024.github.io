@@ -5,7 +5,7 @@ on:
     branches:
       - master  # Triggers the action when changes are pushed to the master branch
   schedule:
-    - cron: '0 0 * * 1'  # Optional: Runs every Monday at midnight (UTC)
+    - cron: '0 0 * * 1'  # Runs every Monday at midnight (UTC)
 
 jobs:
   update-data:
@@ -24,7 +24,7 @@ jobs:
         python-version: '3.12'  # Specify your Python version
     
     - name: Set PYTHONPATH
-      run: echo "PYTHONPATH=${{ env.PYTHONPATH }};C:\\Users\\adegb\\Desktop\\tcbis\\ieee_scrapy\\spiders\\events.py" >> $GITHUB_ENV
+      run: echo "PYTHONPATH=${{ env.PYTHONPATH }};C:\\Users\\adegb\\Desktop\\tcbis\\ieee_scrapy" >> $GITHUB_ENV
 
     - name: Install dependencies
       run: |
