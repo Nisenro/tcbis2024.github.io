@@ -4,7 +4,7 @@ import os
 import json
 from sys import path
 
-path.append('C:\Users\adegb\Desktop\tcbis')
+path.append('C:\\Users\\adegb\\Desktop\\tcbis')
 
 from ieee_scrapy.items import IeeeScrapyItem
 
@@ -18,25 +18,24 @@ class Events(scrapy.Spider):
         conferences = response.css('.wpem-event-listings .wpem-event-layout-wrapper .wpem-event-infomation .wpem-event-details')    
         
         # Initiated an empty list to hold extracted data 
-        data = []
-        
+        data = [] 
         
         for conference in conferences:
-        # Extracted and stored the data in this list
-            conference_data = {
-                'title': conference.css('.wpem-event-title h3::text').get(),
-                'date': conference.css('span.wpem-event-date-text::text').get(),
-                'location': conference.css('span.wpem-event-location-text::text').get(),
-                'country': conference.css('span.wpem-event-type-text::text').get(),
-                'link': conference.css('a.wpem-event-action-url::attr(href)').get()
-            }
+        # Extracted and stored the data in this item -check items.py
+            item = IeeeScrapyItem()
+            item['title'] = conference.css('.wpem-event-title h3::text').get()
+            item['date'] = conference.css('span.wpem-event-date-text::text').get()
+            item['location'] = conference.css('span.wpem-event-location-text::text').get()
+            item['country'] = conference.css('span.wpem-event-type-text::text').get()
+            item['link'] = conference.css('a.wpem-event-action-url::attr(href)').get()
+            
 
-            data.append(conference_data)
+            data.append(item)
 
-            yield conference_data
+            yield item
 
-            # Wrote extracted data to this json file in a directory
-            self.write_to_json(data)
+        # Wrote extracted data to this json file in a directory
+        self.write_to_json(data)
 
             # Check if the request was successful
         if response.status == 200:

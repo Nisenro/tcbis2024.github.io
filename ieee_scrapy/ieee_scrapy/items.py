@@ -7,6 +7,9 @@ import scrapy
 
 
 class IeeeScrapyItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
+    title = scrapy.Field()
+    date = scrapy.Field()
+    location = scrapy.Field()
+    country = scrapy.Field()
+    link = scrapy.Field()
     pass
