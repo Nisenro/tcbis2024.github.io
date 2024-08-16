@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "ieee_scrapy"
+BOT_NAME = "events"
 
-SPIDER_MODULES = ["ieee_scrapy.spiders"]
-NEWSPIDER_MODULE = "ieee_scrapy.spiders"
+SPIDER_MODULES = ["events.spiders"]
+NEWSPIDER_MODULE = "events.spiders"
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
