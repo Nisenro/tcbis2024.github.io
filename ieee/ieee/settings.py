@@ -6,7 +6,7 @@ NEWSPIDER_MODULE = "ieee.spiders"
 
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Splash settings
 SPLASH_URL = 'http://localhost:8050'

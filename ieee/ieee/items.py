@@ -6,7 +6,7 @@
 import scrapy
 
 
-class IeeeScrapyItem(scrapy.Item):
+class IeeeItem(scrapy.Item):
     title = scrapy.Field()
     date = scrapy.Field()
     location = scrapy.Field()
