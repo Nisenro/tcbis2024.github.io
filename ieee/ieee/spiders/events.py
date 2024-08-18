@@ -59,7 +59,7 @@ class Events(scrapy.Spider):
 
     def write_to_json(self, data):
     # Define the output directory and file path
-        output_dir = os.path.join(project_dir, '_data')
+        output_dir = os.path.join(project_dir, '/_data')
         output_file = os.path.join(output_dir, 'conferences.json')
 
         # Ensure the _data directory exists
