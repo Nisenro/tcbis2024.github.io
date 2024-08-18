@@ -1,9 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./ieee_scrapy/ieee_scrapy",
-        "C:\\Users\\adegb\\Desktop\\tcbis\\venv\\Scripts\\python.exe"
-
+        "./ieee/ieee"
     ],
-     
-    
+    "python.defaultInterpreterPath": "C:\\Users\\adegb\\Desktop\\tcbis\\myvenv\\Scripts\\python.exe"
 }
