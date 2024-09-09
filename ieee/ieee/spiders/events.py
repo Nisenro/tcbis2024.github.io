@@ -3,14 +3,8 @@ import os
 import json
 import scrapy
 from scrapy_splash import SplashRequest
-from sys import path
-
-# Dynamically append the project directory to sys.path
-project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-path.append(project_dir)
-
 from ieee.items import IeeeItem
-
+        
 class Events(scrapy.Spider):
     name = "events"
 
@@ -28,6 +22,14 @@ class Events(scrapy.Spider):
 
 
     def parse(self, response):
+        #check if response was successful
+        if response.status == 200:
+            print("Successfully fetched the webpage.")
+        else:
+            print(f"Failed to retrieve the webpage. Status code: {response.status}")
+            return
+        
+        #Extract conference data
         conferences = response.css('.wpem-event-listings .wpem-event-layout-wrapper .wpem-event-infomation .wpem-event-details')    
         
         # Initiated an empty list to hold extracted data 
@@ -43,23 +45,17 @@ class Events(scrapy.Spider):
             item['link'] = conference.css('a.wpem-event-action-url::attr(href)').get()
             
 
-            data.append(item)
+            data.append(dict(item)) #Appended the item as a dictionary
 
             yield item
 
         # Wrote extracted data to this json file in a directory
         self.write_to_json(data)
 
-            # Checked if the request was successful
-        if response.status == 200:
-            print("Successfully fetched the webpage.")
-        else:
-            print(f"Failed to retrieve the webpage. Status code: {response.status}")
-            exit()
-
     def write_to_json(self, data):
     # Defined the output directory and file path
-        output_dir = os.path.join(project_dir, '_data/')
+        project_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..')) 
+        output_dir = os.path.join(project_dir, '_data')
         output_file = os.path.join(output_dir, 'conferences.json')
 
         # Ensured the _data directory exists
