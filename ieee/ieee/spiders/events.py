@@ -50,7 +50,7 @@ class Events(scrapy.Spider):
         # Wrote extracted data to this json file in a directory
         self.write_to_json(data)
 
-            # Check if the request was successful
+            # Checked if the request was successful
         if response.status == 200:
             print("Successfully fetched the webpage.")
         else:
@@ -58,15 +58,15 @@ class Events(scrapy.Spider):
             exit()
 
     def write_to_json(self, data):
-    # Define the output directory and file path
-        output_dir = os.path.join(project_dir, '/_data')
+    # Defined the output directory and file path
+        output_dir = os.path.join(project_dir, '_data/')
         output_file = os.path.join(output_dir, 'conferences.json')
 
-        # Ensure the _data directory exists
+        # Ensured the _data directory exists
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
 
-        # Write the data to the JSON file
+        # Wrote the data to the JSON file
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
 
